@@ -1,0 +1,4 @@
+﻿[
+    {"password": "doctorWho", "comment": "Buraya Hesapların şifresini girebilirsiniz"},
+    {"channel": ["970706675680030786"], "comment": "Buraya hesapların bağlanacağı ses kanalının idsini girebilirsiniz"}
+]
